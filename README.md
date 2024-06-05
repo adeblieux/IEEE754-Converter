@@ -52,7 +52,10 @@ Input: -73.40<br>
 
 ### Resources
 
-For more information on IEEE-754 floating-point format, you can visit [this website](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-30/ass30_01.html).
+1. [IEEE-754 Floating-Point Format - More Information](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-30/ass30_01.html) - Visit this website for more information on IEEE-754 floating-point format.
+2. [Float Converter - IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Convert floating-point numbers to IEEE 754 format and vice versa.
+3. [IEEE 754 Floating Point Converter](https://baseconvert.com/ieee-754-floating-point) - Tool for converting decimal numbers to IEEE 754 floating-point representation.
+4. [YouTube - Understanding IEEE 754 Floating Point Representation](https://www.youtube.com/watch?v=RuKkePyo9zk) - Video tutorial explaining the IEEE 754 floating-point representation.
 
 ### License
 
