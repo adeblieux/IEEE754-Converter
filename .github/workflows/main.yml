@@ -19,7 +19,7 @@ jobs:
 
     - name: Build Java code
       run: |
-        javac Main.java DeBlieux_Convertor.java
+        javac src/Main.java src/DeBlieux_Convertor.java
 
     - name: Run Java code
-      run: java Main
+      run: java -cp src Main
