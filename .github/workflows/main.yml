@@ -25,5 +25,5 @@ jobs:
 
     - name: Compile and run Java files
       run: |
-        javac src/DeBlieux_Convertor.java
+        java src/DeBlieux_Convertor.java
         java src/GUI.java
