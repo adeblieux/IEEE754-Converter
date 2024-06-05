@@ -23,7 +23,8 @@ jobs:
     - name: List files for debugging
       run: ls -R
 
-    - name: Compile and run Java files
-      run: |
-        java src/DeBlieux_Convertor.java
-        java src/GUI.java
+    - name: Compile Java files
+      run: javac DeBlieux_Convertor.java GUI.java
+
+    - name: Run Java GUI
+      run: java GUI
