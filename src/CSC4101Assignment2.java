@@ -1,6 +1,3 @@
-//Joseph Curtis
-//891970816
-
 package csc4101assignment2;
 
 import java.util.Scanner;
