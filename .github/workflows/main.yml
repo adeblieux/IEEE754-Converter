@@ -24,4 +24,4 @@ jobs:
       run: ls -R
 
     - name: Run Java Main
-      run: java -cp src Main
+      run: java -cp src Main.java
