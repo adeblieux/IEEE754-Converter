@@ -28,13 +28,6 @@ The IEEE-754 Converter is a simple Java application that converts decimal number
     - Click the "Run" button to convert the number into IEEE-754 format.
     - The converted binary representation will be displayed in the output area, showing both 23-bit and 52-bit mantissas.
 
-### Features
-
-- Converts decimal numbers into IEEE-754 floating-point format.
-- Supports both 32-bit and 64-bit representations.
-- User-friendly graphical interface for easy interaction.
-- Provides detailed insights into the binary representation of floating-point numbers.
-
 ### Example Outputs:
 Input: 19.59375 <br>
 23-bit: 0 10000011 00111001100000000000000 <br>
@@ -47,6 +40,13 @@ Input: 0.085 <br>
 Input: -73.40<br>
 23-bit: 1 10000101 00100101100110011001100<br>
 52-bit: 1 10000000101 0010010110011001100110011001100110011001100110011010 <br>
+
+### Features
+
+- Converts decimal numbers into IEEE-754 floating-point format.
+- Supports both 32-bit and 64-bit representations.
+- User-friendly graphical interface for easy interaction.
+- Provides detailed insights into the binary representation of floating-point numbers.
 
 ### License
 
