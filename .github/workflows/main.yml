@@ -24,7 +24,7 @@ jobs:
       run: ls -R
 
     - name: Compile Java files
-      run: javac DeBlieux_Convertor.java GUI.java
+      run: javac DeBlieux_Convertor.java GUI.java Main.java
 
-    - name: Run Java GUI
-      run: java GUI
+    - name: Run Java Main
+      run: java Main
