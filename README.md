@@ -14,7 +14,7 @@ The IEEE-754 Converter is a simple Java application that converts decimal number
 2. **Download the Source Code:**
     - Clone the repository from GitHub:
       ```
-      git clone https://github.com/your-username/ieee-754-converter.git
+      git clone https://github.com/adeblieux/IEEE754-Converter.git
       ```
 
 3. **Run the Application:**
