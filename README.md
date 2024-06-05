@@ -24,8 +24,10 @@ The IEEE-754 Converter is a simple Java application that converts decimal number
       ```
 
 4. **Usage:**
+   ![Starting Screen for the GUI](/img/Input.jpg)
     - Enter a decimal number into the input field.
     - Click the "Run" button to convert the number into IEEE-754 format.
+   ![Output Screen for the GUI](/img/Output.jpg)
     - The converted binary representation will be displayed in the output area, showing both 23-bit and 52-bit mantissas.
 
 ### Example Outputs:
