@@ -1,6 +1,6 @@
-## IEEE-754 Converter
-
+# IEEE-754 Converter
 ---
+[![IEEE 754 Single Floating Point Format](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IEEE_754_Single_Floating_Point_Format.svg/2000px-IEEE_754_Single_Floating_Point_Format.svg.png)](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IEEE_754_Single_Floating_Point_Format.svg/2000px-IEEE_754_Single_Floating_Point_Format.svg.png)
 
 ### Overview
 
@@ -47,6 +47,10 @@ Input: -73.40<br>
 - Supports both 32-bit and 64-bit representations.
 - User-friendly graphical interface for easy interaction.
 - Provides detailed insights into the binary representation of floating-point numbers.
+
+### Resources
+
+For more information on IEEE-754 floating-point format, you can visit [this website](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-30/ass30_01.html).
 
 ### License
 
